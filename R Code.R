@@ -1,5 +1,5 @@
 ## 1. Set project workspace folder in computer. 
-    setwd("E:\\NMIMS\\Trimester - 3\\Enterprise Systems\\Project")
+    setwd("path")
 
 ## 2. Loading package to read in excel input file
     library(xlsx)
